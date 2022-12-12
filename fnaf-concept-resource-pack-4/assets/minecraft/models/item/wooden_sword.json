@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+    "overrides": [
+  
+        {"predicate": {"custom_model_data": 300000}, "model": "fnaf_model/fnaf_items/masks/freddy_mask"},
+        {"predicate": {"custom_model_data": 300001}, "model": "fnaf_model/fnaf_items/masks/bonnie_mask"},
+        {"predicate": {"custom_model_data": 300002}, "model": "fnaf_model/fnaf_items/masks/chica_mask"},
+        {"predicate": {"custom_model_data": 300003}, "model": "fnaf_model/fnaf_items/masks/foxy_mask"},
+        {"predicate": {"custom_model_data": 300004}, "model": "fnaf_model/fnaf_items/masks/golden_freddy_mask"}
+            ]
+        }

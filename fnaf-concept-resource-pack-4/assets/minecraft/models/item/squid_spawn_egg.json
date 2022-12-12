@@ -1,0 +1,31 @@
+{
+    "parent": "minecraft:item/template_spawn_egg",
+    "overrides": [
+        
+        {"predicate": {"custom_model_data": 300000}, "model": "fnaf_model/fnaf_items/plushies/freddy_plush"},
+        {"predicate": {"custom_model_data": 300001}, "model": "fnaf_model/fnaf_items/plushies/bonnie_plush"},
+        {"predicate": {"custom_model_data": 300002}, "model": "fnaf_model/fnaf_items/plushies/chica_plush"},
+        {"predicate": {"custom_model_data": 300003}, "model": "fnaf_model/fnaf_items/plushies/foxy_plush"},
+        {"predicate": {"custom_model_data": 300004}, "model": "fnaf_model/fnaf_items/plushies/feddy_plush"},
+        {"predicate": {"custom_model_data": 300005}, "model": "fnaf_model/fnaf_items/plushies/glamrock_freddy_plush"},
+        {"predicate": {"custom_model_data": 300006}, "model": "fnaf_model/fnaf_items/plushies/stung_glamrock_freddy_plush"},
+        {"predicate": {"custom_model_data": 300007}, "model": "fnaf_model/fnaf1_model/chica/cupcake"},
+        {"predicate": {"custom_model_data": 300008}, "model": "fnaf_model/fnaf_items/plushies/golden_freddy_plush"},
+        {"predicate": {"custom_model_data": 300100}, "model": "fnaf_model/fnaf_sb_model/vanessa/vanessa_spawn"},
+        {"predicate": {"custom_model_data": 300101}, "model": "fnaf_model/fnaf_sb_model/vanessa/vanessa_head"},
+        {"predicate": {"custom_model_data": 300102}, "model": "fnaf_model/fnaf_sb_model/vanessa/vanessa_body_idle"},
+        {"predicate": {"custom_model_data": 300103}, "model": "fnaf_model/fnaf_sb_model/vanessa/vanessa_body_walk"},
+        {"predicate": {"custom_model_data": 300104}, "model": "fnaf_model/fnaf_sb_model/vanessa/vanessa_head_hurt"},
+        {"predicate": {"custom_model_data": 300105}, "model": "fnaf_model/fnaf_sb_model/vanessa/vanessa_body_hurt"},
+        {"predicate": {"custom_model_data": 300200}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_spawn"},
+        {"predicate": {"custom_model_data": 300201}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_head"},
+        {"predicate": {"custom_model_data": 300202}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_body_idle"},
+        {"predicate": {"custom_model_data": 300203}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_body_walk"},
+        {"predicate": {"custom_model_data": 300204}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_head_hurt"},
+        {"predicate": {"custom_model_data": 300205}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_body_hurt"},
+        {"predicate": {"custom_model_data": 300206}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_head_sad"},
+        {"predicate": {"custom_model_data": 300207}, "model": "fnaf_model/fnaf4_model/crying_child/crying_child_body_sad"}
+     
+            ]
+        }
+        
